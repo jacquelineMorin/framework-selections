@@ -6,3 +6,5 @@ Here are listed a view questions you should ask yourself before choosing a any f
 * Community
 * Documentation
 * Testability
+* who stands behind the framework
+
