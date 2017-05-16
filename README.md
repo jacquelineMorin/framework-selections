@@ -1,6 +1,10 @@
 # Overview
 
-Here are listed a view questions you should ask yourself before choosing a any framework.
+Here are listed a view questions you should ask yourself before choosing any new framework.
+
+* License 
+
+The license is the mandatory because they have a significant impact on what you want to do with the new framework.
 
 * Documentation
 
@@ -16,5 +20,5 @@ How big is the interest of the framework and which is the size of the community.
 
 * Testability
 
-* who stands behind the framework
+* Who stands behind the framework
 
